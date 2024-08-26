@@ -13,7 +13,7 @@ theme = "hugo-initio"
     
     background = ""
     banner = "images/mandor.jpg"
-    favicon = "images/gt_favicon.png"
+    favicon = "images/logo-perizinanjakarta.png"
     DateForm = "January 2, 2006"
     author = "Sergey Pozhilov (GetTemplate.com)"
 
